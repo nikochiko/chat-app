@@ -1,0 +1,19 @@
+{
+  "name": "agnichat",
+  "version": "0.0.1",
+  "description": "A chat app built using Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikochiko/chat-app.git"
+  },
+  "author": "nikochiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikochiko/chat-app/issues"
+  },
+  "homepage": "https://github.com/nikochiko/chat-app#readme"
+}
